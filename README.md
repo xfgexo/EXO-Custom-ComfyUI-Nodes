@@ -12,7 +12,6 @@ This repository contains all the custom nodes I originally made for myself for C
 <div  align="center">
 
 <img  height="2816"  src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_pbd_ss.png"  />
-
 </div>
 <br>
 <div  align="center">
@@ -139,4 +138,4 @@ To use the ComfyUI EXO custom nodes in your workflow, you now have two options:<
 
 .# Date: Dec.17.2024<br>
 .# Author: Joe Porter / AKA: xfgexo<br>
-.# URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes
+.# URL Link: [EXO-Custom-ComfyUI-Nodes](https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes)
