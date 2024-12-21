@@ -135,9 +135,29 @@ To use the ComfyUI EXO custom nodes in your workflow, you now have two options:<
 
   ```git clone https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes.git```
 <br>
-<h3  align="left">Contributions</h3>
+<h3  align="left">Contributions</h3><br>
   Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/issues)
+<br>
+<h3  align="left">License</h3>
 
+_This custom ComfyUi node pack is free software: you can redistribute it and/or modify
+<br>it under the terms of the GNU General Public License v3.0 as published
+<br>by the Free Software Foundation.
+<br> 
+<br>This program is distributed in the hope that it will be useful,
+<br>but WITHOUT ANY WARRANTY; without even the implied warranty of
+<br>MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+<br>GNU General Public License for more details.
+<br> 
+<br>The GPL license ensures that any derivative work based on GPL-licensed code
+<br>must also be distributed under the same GPL license terms. This means that if
+<br>you modify GPL-licensed software and distribute your modified version, you must
+<br>also provide the source code and allow others to modify and distribute it under
+<br>the same GPL license.
+<br> 
+<br>A copy of the GNU General Public License is included within these project files._
+<br>
+<br>
 .# Date: Dec.17.2024<br>
 .# Author: Joe Porter / AKA: xfgexo<br>
 .# URL Link: [EXO-Custom-ComfyUI-Nodes](https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes)
