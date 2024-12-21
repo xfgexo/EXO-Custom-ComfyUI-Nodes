@@ -46,5 +46,5 @@
         "1280 x 720 (Landscape 16:9)",
         "1536 x 864 (Landscape 16:9)"
     ],
-    "default": "720 x 1280 (Portrait 16:9)"
+    "default": "720 x 1280 (Portrait 9:16)"
 }
