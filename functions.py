@@ -94,3 +94,4 @@ def apply_rescale_image(image: Image.Image, original_width, original_height, rou
     )
 
     return resized_image
+    

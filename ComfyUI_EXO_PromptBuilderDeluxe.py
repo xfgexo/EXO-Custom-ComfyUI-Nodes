@@ -284,3 +284,4 @@ NODE_CLASS_MAPPINGS = {
 NODE_DISPLAY_NAME_MAPPINGS = {
     "ComfyUI_EXO_PromptBuilderDeluxe": "ComfyUI EXO Prompt Builder Deluxe 👑"
 }
+

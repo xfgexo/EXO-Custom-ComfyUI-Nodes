@@ -50,3 +50,4 @@ def load_language_settings(language_code):
         return yaml.safe_load(f)
 
 language_settings = load_language_settings(default_language)
+
