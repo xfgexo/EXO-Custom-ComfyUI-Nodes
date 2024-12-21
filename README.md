@@ -10,7 +10,6 @@ This repository contains all the custom nodes I originally made for myself for C
 <h4  align="left">EXO Prompt Builder Deluxe 👑<br>-----------------------------</h4>Designed for dynamic prompt creation and template management within ComfyUI. This advanced node goes beyond what standard text prompts and styler nodes can do by offering a modular system that allows users to construct complex text prompts. It utilizes over 90 JSON file templates, each containing 50 to 80 entries and each entry having its own unique keywords, which in turn provides a wide selection of options for a truly dynamic and creative process. The node supports both template and manual and combined inputs.<br><br>A standout feature of the Prompt Builder Deluxe Node is its comprehensive suite of options for character creation. It offers users a way to design every aspect of a character, everything from environmental settings to intricate details such as facial features, hair design, body and skin attributes, accessories, art styles and more. Users can select from a broad range of presets or customize each element to their own liking. Whether crafting a character's physical appearance, outfit, or choosing a quick preset, this node has it all.<br><br>Features:<br>- Dynamic Prompt Building: Combines prompt templates from multiple categories.<br>- Extensive Template Library: Utilizes 90 JSON file templates.<br>- Manual Input Support: Allows for manual input of text prompts.<br>- Template Management: Utilizes a modular system for managing and organizing prompt templates.<br>- Configuration File: Easily edit a config file to modify sort order and rename labels and entries.<br>- Section Toggles: Ability to Enable/Disable category sections.<br>- Category Selections: Easily selectable drop-down lists of categories.<br>- Console Logging: Offers an option to log combined prompts to the console.<br><br>Inputs:<br>- Positive_Prompt_Text: Manually entered positive prompt text.<br>- Negative_Prompt_Text: Manually entered negative prompt text.<br>- Log_Prompt_to_Console: Input toggle to enable or disable console logging of the combined prompts.<br>- Section Toggles: Boolean inputs for enabling or disabling specific sections of templates.<br>- Category Selections: Dropdowns for selecting specific templates from each category.<br><br>Outputs:<br>- Positive_Prompt_Text: The combined positive prompt text.<br>- Negative_Prompt_Text: The combined negative prompt text.<br><br>
 
 <div  align="center">
-
 <img  height="2816"  src="https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/blob/EXO_ComfyUI/images/git_exo_pbd_ss.png"  />
 </div>
 <br>
@@ -135,9 +134,9 @@ To use the ComfyUI EXO custom nodes in your workflow, you now have two options:<
 
   ```git clone https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes.git```
 <br>
-<h3  align="left">Contributions</h3>
-<br>
-  Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/issues)
+### Contributions
+
+Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/issues)
 <br>
 <h3  align="left">License</h3>
 
