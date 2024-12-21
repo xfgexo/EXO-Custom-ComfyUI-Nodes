@@ -376,9 +376,9 @@ I have included three workflow examples with my node package. The workflows supp
 
 The workflows:
 You will find the workflows in the "workflows" folder of this package.
-1. EXO Text to Image SDXL Workflow.json
-2. EXO Image to Image SDXL Workflow.json
-3. EXO Text to Image FLUX Workflow.json
+1. [EXO Text to Image SDXL Workflow.json](workflows/EXO%20Text%20to%20Image%20SDXL%20Workflow.json)
+2. [EXO Image to Image SDXL Workflow.json](workflows/EXO%20Image%20to%20Image%20SDXL%20Workflow.json)
+3. [EXO Text to Image FLUX Workflow.json](workflows/EXO%20Text%20to%20Image%20FLUX%20Workflow.json)
 
 Note: The workflows use nodes from the following node developers:
 - ComfyUI core nodes
