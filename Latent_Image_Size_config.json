@@ -1,14 +1,8 @@
 {
     "dimensions": [
         " ",
-        "----- Portrait 16:9 -----",
-        "512 x 912 (Portrait 16:9)",
-        "576 x 1024 (Portrait 16:9)",
-        "720 x 1280 (Portrait 16:9)",
-        "864 x 1536 (Portrait 16:9)",
-        " ",
         "----- Portrait 9:16 -----",
-        " ",
+        "512 x 912 (Portrait 9:16)",
         "576 x 1024 (Portrait 9:16)",
         "720 x 1280 (Portrait 9:16)",
         "864 x 1536 (Portrait 9:16)",
