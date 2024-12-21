@@ -382,7 +382,7 @@ You will find the workflows in the "workflows" folder of this package.
 
 Note: The workflows use nodes from the following node developers:
 - ComfyUI core nodes
-- ComfyUI EXO custom nodes
+- EXO-Custom-ComfyUI-Nodes
 - ComfyUI-Detail-Daemon: [GitHub Repository](https://github.com/Jonseed/ComfyUI-Detail-Daemon)
 - ComfyUI-Impact-Pack: [GitHub Repository](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 - rgthree-comfy: [GitHub Repository](https://github.com/rgthree/rgthree-comfy)
