@@ -134,6 +134,11 @@
 
   ```git clone https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes.git```
 
-<p  align="left"> ### Contributions<br><br>Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/issues).<br><br>### License<br><br>This project is licensed under the [GPL-3.0 license](LICENSE).</p>
+<p align="left">
+  ### Contributions<br><br>
+  Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to 
+</p>
+
+[open an issue](https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/issues).
 
 <p  align="left"># Date: Dec.17.2024<br># Author: Joe Porter / AKA: xfgexo<br># URL Link: https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes</p>
