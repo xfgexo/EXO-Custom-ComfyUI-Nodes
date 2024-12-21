@@ -135,7 +135,9 @@ To use the ComfyUI EXO custom nodes in your workflow, you now have two options:<
 
   ```git clone https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes.git```
 <br>
-Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/issues)
+<h3  align="left">Contributions</h3>
+<br>
+  Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes/issues)
 <br>
 <h3  align="left">License</h3>
 
