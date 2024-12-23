@@ -38,6 +38,7 @@ Output:
 - Display Notes: Displays the entered notes within the workflow for easy reference.
 """
 
+
 class ComfyUI_EXO_Notes:
     
     def __init__(self):
