@@ -107,6 +107,7 @@ class ComfyUI_EXO_ImageRescale:
                     "tooltip": "Target height in pixels   Only used when Mode is set to Resize"
                 }),
                 "Resampling": (resampling_methods, {
+                    "default": "Lanczos",
                     "tooltip": "Algorithm used for ALL resize operations:   Lanczos: High quality   Nearest: Fast   Bilinear: Smooth   Bicubic: Sharp"
                 }),
                 "Supersample": (["true", "false"], {
