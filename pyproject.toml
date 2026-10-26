@@ -1,0 +1,13 @@
+[project]
+name = "EXO-Custom-ComfyUI-Nodes"
+description = "A custom node pack made with efficiency and quality of life features in mind. Includes the EXO Prompt Builder Deluxe node, Show Text, Save Text, Translate Text, Latent Image Size, Image Rescale and Flux sampler nodes."
+version = "1.0.1"
+license = { file = "LICENSE" }
+dependencies = ["langdetect"]
+
+[project.urls]
+Repository = "https://github.com/xfgexo/EXO-Custom-ComfyUI-Nodes"
+
+[tool.comfy]
+PublisherId = "xfgexo"
+DisplayName = "EXO Custom ComfyUI Nodes"
