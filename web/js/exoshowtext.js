@@ -71,11 +71,15 @@ app.registerExtension({
 
                 console.log("Final text values:", {positiveText, negativeText});
 
-                // Clear existing display widgets (keep only input widgets)
+                // Remove only the display widgets created by a previous run, by name.
+                // (Counting widgets breaks when the inputs have no widgets, as in newer frontends.)
                 if (this.widgets) {
-                    while (this.widgets.length > 2) {  // Keep the first two input widgets
-                        this.widgets[this.widgets.length - 1].onRemove?.();
-                        this.widgets.pop();
+                    for (let i = this.widgets.length - 1; i >= 0; i--) {
+                        const w = this.widgets[i];
+                        if (w.name === "Positive_Display" || w.name === "Negative_Display") {
+                            w.onRemove?.();
+                            this.widgets.splice(i, 1);
+                        }
                     }
                 }
 
