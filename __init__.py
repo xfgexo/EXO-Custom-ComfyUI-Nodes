@@ -40,7 +40,7 @@ import sys
 
 # Print ASCII art to console before loading node mappings
 def display_ascii_art():
-    ascii_art = """
+    ascii_art = r"""
 \033[33m          )      )        )     )  (           (     
 \033[33m       ( /(   ( /(     ( /(  ( /(  )\ )        )\ )  
 \033[33m (     )\())  )\())    )\()) )\())(()/(   (   (()/(  
@@ -51,7 +51,7 @@ def display_ascii_art():
 \033[35m|___|\033[31m /_/\_\  \___/   \033[35m|_|\_|\033[31m \___/ |___/ |___||___/    \033[0m                                                           
 
 \033[31m...Loading EXO Node's\033[0m
-""" 
+""".replace("\\033", "\033")
     print(ascii_art)
 display_ascii_art()
 
