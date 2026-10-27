@@ -1,7 +1,7 @@
 [project]
 name = "EXO-Custom-ComfyUI-Nodes"
 description = "A custom node pack made with efficiency and quality of life features in mind. Includes the EXO Prompt Builder Deluxe node, Show Text, Save Text, Translate Text, Latent Image Size, Image Rescale and Flux sampler nodes."
-version = "1.0.1"
+version = "1.0.2"
 license = { file = "LICENSE" }
 dependencies = ["langdetect"]
 
