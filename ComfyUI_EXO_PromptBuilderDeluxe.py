@@ -55,24 +55,7 @@ Outputs:
 
 import json
 import os
-import platform  # Add this import statement
 from collections import defaultdict
-from global_flags import console_cleared
-
-def clear_console():
-    global console_cleared
-    if not console_cleared:
-        # Detect the operating system
-        current_os = platform.system()
-
-        # Clear the console based on the operating system
-        if current_os == "Windows":
-            os.system('cls')
-        else:
-            os.system('clear')
-
-        # Set the flag to indicate the console has been cleared
-        console_cleared = True
 
 # Base configuration paths
 base_dir = os.path.dirname(__file__)
@@ -215,10 +198,6 @@ class ComfyUI_EXO_PromptBuilderDeluxe:
 
     def process(self, Positive_Prompt_Text, Negative_Prompt_Text, log_prompt_to_console, **kwargs):
         """Main processing method for prompt building"""
-        # Clear the console (only once)
-        # clear_console()
-        
-        
 
         combined_positive_prompt = Positive_Prompt_Text
         combined_negative_prompt = Negative_Prompt_Text
